@@ -1,0 +1,32 @@
+body {
+  background-color: #0b1026;
+  font-size: 18px;
+  color: #e6ecff;
+  text-align: center
+}
+
+header {
+	background-color: #111a3d;
+    border: 2px solid #89a8ff;
+}
+
+h1 {
+	color: #ffffff
+}
+
+h2 {
+	color: orange;
+}
+
+a {
+	color: #7dd3fc;
+}
+
+img {
+	border: 2px solid #89a8ff;
+}
+
+footer{
+	background-color: #111a3d;
+    border: 2px solid #89a8ff;
+}
